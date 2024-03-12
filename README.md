@@ -7,4 +7,5 @@ R is a popular langauge used by data scientiest for analysis of data and buildin
 | Sr | File |  Contents|
 |:---:|:----:|:-----------:|
 |1.| KNN.R |Implementation of K Nearest Neighbors in R|
+|2.| K_Means.R |Implementation of K Means Algorithm in R|
 
