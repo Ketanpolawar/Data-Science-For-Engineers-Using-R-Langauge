@@ -10,4 +10,5 @@ R is a popular langauge used by data scientiest for analysis of data and buildin
 |2.| K_Means.R |Implementation of K Means Algorithm in R|
 |3.| LinearRegression.R |Implementation of Linear RegressionAlgorithm in R|
 |4.| Resudial_Analysis.R |Implementation of Resudial Analysis Algorithm in R|
+|5.| Logistic_Regression.R |Implementation of Resudial Analysis Algorithm in R|
 
