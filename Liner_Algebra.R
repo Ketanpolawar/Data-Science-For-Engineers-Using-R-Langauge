@@ -61,4 +61,5 @@ ev=eigen(A)
 print(ev)
 #trace is the sum of eigen value
 #|A| is product of eigen value
+#det |A| is equal to det |A|'
 
