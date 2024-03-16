@@ -5,7 +5,7 @@ R is a popular langauge used by data scientiest for analysis of data and buildin
 
 # The Repo contains the Hightlights of topics like :
 1. Mathematical Foundation for Data Science
-2. Algorithmics Foundations for Data Science
+2. Algorithmic Foundation for Data Science
 
 | Sr | File |  Contents|
 |:---:|:----:|:-----------:|
