@@ -18,5 +18,6 @@ R is a popular langauge used by data scientiest for analysis of data and buildin
 |7.| Logistic_Regression.R |Implementation of Resudial Analysis Algorithm in R|
 |8.| Probability_Statstics.R |Concepts of Probability and Statstics in R|
 |9.| Optimization_1.R |Optimization and Gradient Descent Concepts in R|
-|10.| Optimization_02.R |Constraint Optimization Concepts in R|
+|10.|Optimization_02.R |Constraint Optimization Concepts in R|
 |11.| Regression_Theory_01.R |Regression concepts and Formule|
+|12.| Performance Measure.R |Confusion matrix and realted concepts|
