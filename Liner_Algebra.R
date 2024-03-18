@@ -10,10 +10,10 @@ library(pracma)
 print(Rank(A))
 
 #Singular matrix :A square matrix whose determinant is 0
-#Rank denotes number of linearly in dependent variables(|A| !=0)
+#Rank denotes number of linearly independent variables(|A|!=0)
 #Nullity denotes the number of linear Relationships between the variables
 
-#Nullity /null space of matrix N_column - Rank 
+#Nullity or null space of matrix N_column - Rank 
 
 #Row echelon form elements below the diagonal are zero using the row column transformations
 ref=rref(A)
@@ -22,9 +22,10 @@ print(ref)
 #in case of non-square matrix m*n if n<m rank can most be n
 #Linear equation are of the form Ax=B
 #case1 m=n easy to solve
+#m equation n variables
 #1.1 A is full rank |A|!=0 x=A'b Rank|A|=Rank[A|b]=n unique solution
 #1.2.1 A is not full Rank Rank|A|=rank|A|b|<n  infinite solution
-#1.2.2 A is not full Rank Rank|A| !=rank|A|b| n no solution
+#1.2.2 A is not full Rank Rank|A|!=rank|A|b| n no solution
 #case2 m>n no solution x=(A'A)-1A'b least square
 #case3 m<n infinitely many solution x=A'(AA')-1b lesat norm
 
