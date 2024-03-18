@@ -2,7 +2,7 @@
 #getwd() get working diectory
 #setwd() set the working directory
 
-#Naming starts with alphabet can contain '.' or '_' can cntain numbers also
+#Naming starts with alphabet can contain '.' or '_' can contain numbers also
 #a.name,a_name are allowed 
 #datatypes in R 
 # 1.Numeric
@@ -147,7 +147,7 @@ print(o)
 #Scatter Plot
 x=1:20
 y=x^2
-plot(x,y,main = 'X vs Y',xlab = "X",ylab = 'Y',pch=1)bar
+plot(x,y,main = 'X vs Y',xlab = "X",ylab = 'Y',pch=1)
 #barplot
 barplot(mark,ylab='',xlab='',col='blue')
 #line 
