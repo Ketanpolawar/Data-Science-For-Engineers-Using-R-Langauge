@@ -42,7 +42,7 @@
 # TP/(TP+FN)
 
 #Specificity : correct negative prediction by total actual negative labels
-#i TN/(TN+FP)
+# TN/(TN+FP)
 
 #Both sensitivity and specificity lies in range 0,1 ,ideal value is 1
 
