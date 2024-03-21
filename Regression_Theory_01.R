@@ -44,7 +44,7 @@ summary(model)
 # SST (total sum of squares)
 # SSE (sum squared error)
 
-# SST=SSE+SST
+# SST=SSE+SSR
 # R^2=1-SSE/SST
 
 
