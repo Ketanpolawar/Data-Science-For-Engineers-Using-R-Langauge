@@ -26,7 +26,7 @@
 #V(ax+bx1)=a^2V(x)+b^2V(x2)+2ab cov(x,x1)
 
 #Covarience = sum (X-x')(y-y')/N (direction of linear relationship)
-#Correlation = cov(x,y)/var(x)*var(y)   std=(sum(x-x')^2/n-1)(strength of linear relation -1 to +1)
+#Correlation = cov(x,y)/std(x)*std(y)   std=(sum(x-x')^2/n-1)(strength of linear relation -1 to +1)
 #cov=E[(x-ux)(y-uy)]
 #Cor=std(x,y)/var(x)*var(y)
 ##IMPLEMENTATION IN R LANGAUGE##
