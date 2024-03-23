@@ -65,7 +65,9 @@
 # used when variance is not known 
 # use for samplple size less tahn 30
 #  z=x'-u/s(n^1/2)  s is std of sample calculated
- 
+
+
+#var (x) = sum(x-u)2(p (x))) -u^@ 
  
  
 
