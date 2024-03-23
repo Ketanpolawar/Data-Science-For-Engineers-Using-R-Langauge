@@ -44,7 +44,7 @@ print(f_prime)
 
 #Stationary points : any points at which you may get max or min value (get by solving f'(x))
 #for minima and maxima (put the solution in f"(x) if ans is +ve then their exixts minima else their lies maxima)
-#for minimum value fut stationary point and then put back in equation
+#for minimum value put stationary point and then put back in equation
 
 #Multivariate optimization : has more than one decision variable  
 #necessary condition grad f(x)0
