@@ -47,7 +47,7 @@ print(f_prime)
 #for minimum value put stationary point and then put back in equation
 
 #Multivariate optimization : has more than one decision variable  
-#necessary condition grad f(x)0
+#necessary condition grad f(x)=0
 #sufficient condition hessian matrix grad^2f(x) with +ve eigen value
 
 #install and load necessary packages
