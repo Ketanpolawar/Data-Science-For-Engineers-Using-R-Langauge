@@ -63,7 +63,7 @@
 #  Z=(x'-u/(std/(n^1/2)))  std of population given
 #T test
 # used when variance is not known 
-# use for samplple size less tahn 30
+# use for samplple size less than 30
 #  z=x'-u/s(n^1/2)  s is std of sample calculated
 
 
