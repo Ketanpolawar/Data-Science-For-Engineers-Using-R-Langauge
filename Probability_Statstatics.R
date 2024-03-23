@@ -54,7 +54,7 @@
 #&Hypothesis testing
 #Two tailed Ho u=some vale H1 u!= some vale
 #One tailed  ho>= value H1 <value and similar
-#we generally put H1 as someting we want to proove abd Ho is (generallly opp H1)is regected to proove H1
+#we generally put H1 as someting we want to proove and Ho is (generallly opp H1)is regected to proove H1
 #Type 1 error :True is rejected
 #Type 2 error :False is accepted
 #Z-test: 
